@@ -1,5 +1,5 @@
 # Hosting
-https://fir-demo-67528.web.app/
+https://spotify-clone-ba951.firebaseapp.com/
 
 ## Getting Started with Create React App
 
